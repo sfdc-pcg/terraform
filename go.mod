@@ -132,4 +132,4 @@ require (
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
 
-replace github.com/hashicorp/go-getter => ../go-getter
+replace github.com/hashicorp/go-getter => github.com/sfdc-pcg/go-getter v1.2.0
