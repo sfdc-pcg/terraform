@@ -21,6 +21,7 @@ var goGetterDetectors = []getter.Detector{
 	new(getter.GitHubDetector),
 	new(getter.BitBucketDetector),
 	new(getter.S3Detector),
+	new(getter.GCSDetector),
 	new(getter.FileDetector),
 }
 
@@ -47,6 +48,7 @@ var goGetterGetters = map[string]getter.Getter{
 	"git":   new(getter.GitGetter),
 	"hg":    new(getter.HgGetter),
 	"s3":    new(getter.S3Getter),
+	"gcs":   new(getter.GCSGetter),
 	"http":  getterHTTPGetter,
 	"https": getterHTTPGetter,
 }
