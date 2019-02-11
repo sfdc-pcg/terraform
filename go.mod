@@ -49,7 +49,7 @@ require (
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-checkpoint v0.0.0-20171009173528-1545e56e46de
 	github.com/hashicorp/go-cleanhttp v0.5.0
-	github.com/hashicorp/go-getter v0.0.0-20180327010114-90bb99a48d86
+	github.com/hashicorp/go-getter v1.0.3
 	github.com/hashicorp/go-hclog v0.0.0-20171005151751-ca137eb4b438
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/go-plugin v0.0.0-20180125190438-e53f54cbf51e
