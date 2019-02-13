@@ -88,7 +88,9 @@ require (
 	github.com/mitchellh/go-linereader v0.0.0-20141013185533-07bab5fdd958
 	github.com/mitchellh/go-testing-interface v1.0.0
 	github.com/mitchellh/go-wordwrap v1.0.0
+	github.com/mitchellh/gox v0.4.0 // indirect
 	github.com/mitchellh/hashstructure v1.0.0
+	github.com/mitchellh/iochan v1.0.0 // indirect
 	github.com/mitchellh/mapstructure v1.0.0
 	github.com/mitchellh/packer v0.0.0-20160128234158-314aad379a39
 	github.com/mitchellh/panicwrap v0.0.0-20161208170302-ba9e1a65e0f7
@@ -126,6 +128,7 @@ require (
 	golang.org/x/sys v0.0.0-20181213200352-4d1cda033e06
 	golang.org/x/text v0.3.0
 	golang.org/x/time v0.0.0-20181108054448-85acf8d2951c
+	golang.org/x/tools v0.0.0-20190213192042-740235f6c0d8 // indirect
 	google.golang.org/api v0.0.0-20171005000305-7a7376eff6a5
 	google.golang.org/appengine v0.0.0-20150527042145-b667a5000b08
 	google.golang.org/genproto v0.0.0-20171002232614-f676e0f3ac63
