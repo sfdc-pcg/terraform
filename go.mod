@@ -49,7 +49,7 @@ require (
 	github.com/hashicorp/go-azure-helpers v0.0.0-20190129193224-166dfd221bb2
 	github.com/hashicorp/go-checkpoint v0.0.0-20171009173528-1545e56e46de
 	github.com/hashicorp/go-cleanhttp v0.5.0
-	github.com/hashicorp/go-getter v1.0.3
+	github.com/hashicorp/go-getter v1.2.0
 	github.com/hashicorp/go-hclog v0.0.0-20181001195459-61d530d6c27f
 	github.com/hashicorp/go-immutable-radix v0.0.0-20180129170900-7f3cd4390caa // indirect
 	github.com/hashicorp/go-msgpack v0.0.0-20150518234257-fa3f63826f7c // indirect
